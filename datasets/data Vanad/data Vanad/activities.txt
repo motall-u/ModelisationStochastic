@@ -1,0 +1,19 @@
++----+-------------------------+
+| id | dndname                 |
++----+-------------------------+
+|  2 | Uitgelogd               |	logged off
+|  3 | Campagne voeren         |	taking calls
+|  7 | Pauze                   |	break
+|  8 | Lunchpauze              |	lunch break ( unavailable unpaid)
+| 16 | WRAP-UP                 |	wrap up
+| 35 | Inloggen                |	logging in (preparing to use the system, unavailable and unpaid)
+| 39 | Overleg Senior          |	meeting (unavailable)
+| 40 | Overleg Supervisor      |	meeting (unavailable)
+| 41 | Overige werkzaamheden   |	other work (unavailable)
+| 42 | Floorwalker             |	other work (unavailable)
+| 43 | Tussenuur               |	break (unvailable and unpaid)
+| 44 | Uitgelogd (systeem)     |	logged off by system
+| 61 | MSB Uitbellen           |	outbound calling (not in call log)
+| 71 | Urencorrectie (systeem) |	corrected hours (treat this as logged out)
++----+-------------------------+
+
